@@ -1,4 +1,4 @@
-## Hello to all! 👋
+# Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Homero Escobar Torres and I'm a Software Developer. I'm from Italy, living in Turin and currently working at Consoft Sistemi. 
 I am passionate about new technologies and always ready to learn. 
