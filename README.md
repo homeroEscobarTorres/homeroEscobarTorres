@@ -1,6 +1,6 @@
 # Hello folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Homero and I'm a Software Developer. I'm from Colombia, living in Turin and currently working at [EpiCura](https://www.epicuramed.it/). 
+My name is Homero and I'm a Software Developer. I'm from Colombia, living in Turin and currently working at [Be](https://www.be-tse.it/it/). 
 I am passionate about new technologies and always ready to learn. 
 You can find me on [linkedin](https://www.linkedin.com/in/homero-escobar-torres).
 
